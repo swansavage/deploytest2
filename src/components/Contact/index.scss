@@ -14,10 +14,12 @@
         opacity: 0;
         overflow: hidden;
         display: block;
+        clear: both;
         position: relative;
         animation: fadeInUp 2s 2s;
         animation-fill-mode: forwards;
       }
+  
       li.half {
         width: 49%;
         margin-left: 2%;
@@ -29,5 +31,45 @@
         }
       }
     }
-}
+  
+    input[type='text'],
+    input[type='email'] {
+      width: 70%;
+      border: 0;
+      background:pink;
+      height: 50px;
+      font-size: 16px;
+      color: #fff;
+      padding: 0 10px;
+      box-sizing: border-box;
+    }
+  
+    textarea {
+      width: 50%;
+      border: 0;
+      background:pink;
+      height: 50px;
+      font-size: 16px;
+      color: #fff;
+      padding: 20px;
+      box-sizing: border-box;
+      min-height: 100px;
+    }
+  
+    .flat-button {
+      color: pink;
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-decoration: none;
+      padding: 8px 10px;
+      border: 1px solid pink;
+      float: left;
+      border-radius: 4px;
+      background: 0 0;
+      text-transform: uppercase;
+      float: right;
+      text-align: center;
+      margin-right: 10px;
+    }
+  }
   
