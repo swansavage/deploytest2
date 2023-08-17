@@ -29,8 +29,18 @@ const About = () => {
             idx={15}
           />
         </h1>
-        <p>summary of mua</p>
-        <p>summary of mua</p>
+        <p>
+          Hello, my name is Alexius Savage and I am passionately determined to
+          master the craft and create digital experiences that leave a lasting
+          impact. I have in depth knowledge in many coding laguages like
+          JavaScript, Html, CSS, React, Node.js, even the intricate world of
+          regular expressions (regex).
+        </p>
+        <p>
+          Driven by an insatiable curiosity and a hunger for innovation, I
+          envision not just creating functional websites, but crafting immersive
+          online ecosystems that seamlessly blend form and function.
+        </p>
       </div>
       <div className="stage-cube-cont">
         <div className="cubespinner">

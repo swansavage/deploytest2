@@ -4,24 +4,24 @@
     position: absolute;
 }
 
-.top-tags { 
-    bottom: auto;
-    top: 35px;
-}
+// .top-tags { 
+//     bottom: auto;
+//     top: 35px;
+// }
 
-.tags {
-    color: pink;
-    opacity: 0.6;
-    position: absolute;
-    bottom: 0;
-    left: 120px;
-    font-size: 18px;
-    font-family: 'Courier New', Courier, monospace;
+// .tags {
+//     color: pink;
+//     opacity: 0.6;
+//     position: absolute;
+//     bottom: 0;
+//     left: 120px;
+//     font-size: 18px;
+//     font-family: 'Courier New', Courier, monospace;
     
-}
-.bottom-tag-html {
-    margin-left: -20px;
-}
+// }
+// .bottom-tag-html {
+//     margin-left: -20px;
+// }
 
 .container {
     width: 100%;
@@ -38,7 +38,7 @@
     animation-delay:1s ;
 }
 
-.about-page,.contact-page {
+.about-page,.contact-page,.projects-page {
     .text-zone {
         position: absolute;
         left: 10%;
@@ -60,7 +60,7 @@
             left: 10px;
 
             &:before {
-                content: '<h1>';
+                content: '';
                 font-family: 'sans-serif';
                 color: pink;
                 font-size: 18px;
@@ -72,7 +72,7 @@
               }
         
               &:after {
-                content: '<h1/>';
+                content: '';
                 font-family: 'sans-serif';
                 color: pink;
                 font-size: 18px;

@@ -37,11 +37,6 @@ const Home = () => {
     'e',
     'r',
   ];
-  // useEffect(() => {
-  //   return setTimeout(() => {
-  //     setLetterClass('text-animate-hover');
-  //   }, 4000);
-  // }, []);
 
   return (
     <>
@@ -62,14 +57,12 @@ const Home = () => {
               stArray={nameArray}
               idx={15}
             />
-            {/* Alexius Savage */}
             <br />
             <AnimatingLetters
               letterClass={letterClass}
               stArray={jobArray}
               idx={22}
             />
-            {/* Web Developer */}
           </h1>
           <h2>Frontend Developer/ React/Node expert / Javascript Expert</h2>
           <Link to="/contact" className="flat-button">

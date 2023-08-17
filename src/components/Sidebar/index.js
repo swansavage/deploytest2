@@ -2,13 +2,17 @@ import { Link, NavLink } from 'react-router-dom';
 import './index.scss';
 import LogoOne from '../../assets/images/My-logo.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import {
+  faEnvelope,
+  faFolderClosed,
+  faHome,
+  faUser,
+} from '@fortawesome/free-solid-svg-icons';
 import {
   faGithub,
   faLinkedin,
   faYoutube,
 } from '@fortawesome/free-brands-svg-icons';
-// import LogoOne from '../../assets/images/Me.Logo.jpg';
 
 const Sidebar = () => (
   <div className="Nav-bar">
@@ -35,6 +39,14 @@ const Sidebar = () => (
       >
         <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
       </NavLink>
+      <NavLink
+        exact="true"
+        activeclassname="active"
+        className="projects-link"
+        to="/projects"
+      >
+        <FontAwesomeIcon icon={faFolderClosed} color="#4d4d4e" />
+      </NavLink>
     </nav>
     <ul>
       <li>
@@ -43,7 +55,7 @@ const Sidebar = () => (
           rel="noreferrer"
           href="https://www.linkedin.com/in/alexius-savage-a35846243/"
         >
-          <FontAwesomeIcon icon={faLinkedin} color="lightpurple" />
+          <FontAwesomeIcon icon={faLinkedin} color="pink" />
         </a>
       </li>
       <li>
@@ -52,13 +64,13 @@ const Sidebar = () => (
           rel="noreferrer"
           href="https://github.com/Asavage650"
         >
-          <FontAwesomeIcon icon={faGithub} color="lightpurple" />
+          <FontAwesomeIcon icon={faGithub} color="pink" />
         </a>
       </li>
 
       <li>
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/">
-          <FontAwesomeIcon icon={faYoutube} color="lightpurplek" />
+          <FontAwesomeIcon icon={faYoutube} color="pink" />
         </a>
       </li>
     </ul>
