@@ -22,9 +22,12 @@ Must run npm install to get all required packages
 ## Usage
 
 This app can be used to see and determine whether or not I'm right for your company! Or so you all can just get to know a little about me.
-![Pic of homepage](<'#../../src/assets/images/2023-08-16%20(12).png'>)
-![Pic of about me](<#../../src/assets/images/2023-08-16%20(13).png>)
-![Pic of contact me](<#../../src/assets/images/2023-08-16%20(14 ).png>)
+
+## ![Pic of homepage](<'#../../src/assets/images/2023-08-16%20(12).png'>)
+
+## ![Pic of about me](<#../../src/assets/images/2023-08-16%20(13).png>)
+
+## ![Pic of contact me](<#../../src/assets/images/2023-08-16%20(14 ).png>)
 
 ## License
 
