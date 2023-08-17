@@ -4,7 +4,7 @@
 
 ## Decription
 
-Welcome to my Portfolio Application! This project showcases my skills, projects, and experiences in the world of web development. Built using React, this interactive portfolio allows me to display my expertise while providing an engaging experience for visitors.
+Welcome to my Portfolio Application! This project showcases my skills, projects, and experiences in the world of web development. Built using React, this interactive portfolio allows me to display my expertise while providing an engaging experience for visitors. Future updates include a functional projects section.
 
 ## Table of Contents:
 
