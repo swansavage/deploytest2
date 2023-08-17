@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PortTwo/static/css/main.de7872aa.css",
+    "main.js": "/PortTwo/static/js/main.38e4b673.js",
+    "static/js/787.6e6f2281.chunk.js": "/PortTwo/static/js/787.6e6f2281.chunk.js",
+    "static/media/pw-generator.png": "/PortTwo/static/media/pw-generator.fd8f32b261f27e39c99f.png",
+    "static/media/Tech-blog.png": "/PortTwo/static/media/Tech-blog.b19825bb559c8dbd4366.png",
+    "static/media/scheduler.png": "/PortTwo/static/media/scheduler.8903ea11306c8ab77713.png",
+    "static/media/My-logo.jpg": "/PortTwo/static/media/My-logo.a757407cef3f6061a58f.jpg",
+    "static/media/jate.png": "/PortTwo/static/media/jate.4be53c6423dc28b4f2c3.png",
+    "static/media/Note-taker.png": "/PortTwo/static/media/Note-taker.cca24cec2667ab01008d.png",
+    "index.html": "/PortTwo/index.html",
+    "static/media/helvetica-neu.ttf": "/PortTwo/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
+    "main.de7872aa.css.map": "/PortTwo/static/css/main.de7872aa.css.map",
+    "main.38e4b673.js.map": "/PortTwo/static/js/main.38e4b673.js.map",
+    "787.6e6f2281.chunk.js.map": "/PortTwo/static/js/787.6e6f2281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7872aa.css",
+    "static/js/main.38e4b673.js"
+  ]
+}
