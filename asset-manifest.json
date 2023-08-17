@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/swansavage/deploytest2/static/css/main.e0151ec9.css",
-    "main.js": "/swansavage/deploytest2/static/js/main.a7f5a0bf.js",
-    "static/js/787.6e6f2281.chunk.js": "/swansavage/deploytest2/static/js/787.6e6f2281.chunk.js",
-    "static/media/pw-generator.png": "/swansavage/deploytest2/static/media/pw-generator.fd8f32b261f27e39c99f.png",
-    "static/media/Tech-blog.png": "/swansavage/deploytest2/static/media/Tech-blog.b19825bb559c8dbd4366.png",
-    "static/media/scheduler.png": "/swansavage/deploytest2/static/media/scheduler.8903ea11306c8ab77713.png",
-    "static/media/My-logo.jpg": "/swansavage/deploytest2/static/media/My-logo.a757407cef3f6061a58f.jpg",
-    "static/media/jate.png": "/swansavage/deploytest2/static/media/jate.4be53c6423dc28b4f2c3.png",
-    "static/media/Note-taker.png": "/swansavage/deploytest2/static/media/Note-taker.cca24cec2667ab01008d.png",
-    "index.html": "/swansavage/deploytest2/index.html",
-    "static/media/helvetica-neu.ttf": "/swansavage/deploytest2/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
-    "main.e0151ec9.css.map": "/swansavage/deploytest2/static/css/main.e0151ec9.css.map",
-    "main.a7f5a0bf.js.map": "/swansavage/deploytest2/static/js/main.a7f5a0bf.js.map",
-    "787.6e6f2281.chunk.js.map": "/swansavage/deploytest2/static/js/787.6e6f2281.chunk.js.map"
+    "main.css": "/deploytest2/static/css/main.1fb6ecf7.css",
+    "main.js": "/deploytest2/static/js/main.36f86ce7.js",
+    "static/js/787.6e6f2281.chunk.js": "/deploytest2/static/js/787.6e6f2281.chunk.js",
+    "static/media/pw-generator.png": "/deploytest2/static/media/pw-generator.fd8f32b261f27e39c99f.png",
+    "static/media/Tech-blog.png": "/deploytest2/static/media/Tech-blog.b19825bb559c8dbd4366.png",
+    "static/media/scheduler.png": "/deploytest2/static/media/scheduler.8903ea11306c8ab77713.png",
+    "static/media/My-logo.jpg": "/deploytest2/static/media/My-logo.a757407cef3f6061a58f.jpg",
+    "static/media/jate.png": "/deploytest2/static/media/jate.4be53c6423dc28b4f2c3.png",
+    "static/media/Note-taker.png": "/deploytest2/static/media/Note-taker.cca24cec2667ab01008d.png",
+    "index.html": "/deploytest2/index.html",
+    "static/media/helvetica-neu.ttf": "/deploytest2/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
+    "main.1fb6ecf7.css.map": "/deploytest2/static/css/main.1fb6ecf7.css.map",
+    "main.36f86ce7.js.map": "/deploytest2/static/js/main.36f86ce7.js.map",
+    "787.6e6f2281.chunk.js.map": "/deploytest2/static/js/787.6e6f2281.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0151ec9.css",
-    "static/js/main.a7f5a0bf.js"
+    "static/css/main.1fb6ecf7.css",
+    "static/js/main.36f86ce7.js"
   ]
 }
